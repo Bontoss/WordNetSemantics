@@ -1,0 +1,2 @@
+# WordNetSemantics
+Algorithms Course Project
