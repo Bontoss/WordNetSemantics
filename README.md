@@ -1,8 +1,6 @@
 # WordNet Semantics
-The WordNet Semantics Project is a C++ implementation developed as part of an Algorithms course project. It provides functionalities for semantic analysis using the WordNet lexical database.
-
 ## Description
-This project leverages the WordNet lexical database to perform semantic analysis on textual data. It includes modules for parsing synsets, hypernyms, relations, and outcast queries from input files. Additionally, it implements algorithms to calculate semantic distances between words and find outlier words based on their semantic relationships.
+The WordNet Semantics Project, developed in C++ for an Algorithms course, provides functionalities for semantic analysis using the WordNet lexical database. It includes modules for parsing synsets, hypernyms, relations, and outcast queries from input files, and implements algorithms to calculate semantic distances between words and identify outlier words based on their semantic relationships.
 
 ## Features
 * **Parsing Modules:** Parses input files containing synsets, hypernyms, relations, and outcast queries.
